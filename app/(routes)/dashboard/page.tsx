@@ -3,6 +3,7 @@ import AppHeader from './_components/AppHeader'
 import HistoryList from './_components/HistoryList'
 import DoctorsAgentList from './_components/DoctorsAgentList'
 import { Button } from '@/components/ui/button'
+import AddNewSessionDialogue from './_components/AddNewSessionDialogue'
 
 
 function Dashboard() {
@@ -12,7 +13,7 @@ function Dashboard() {
       <div className='px-10 md:px-20 lg:px-30 py-10'>
           <div className='flex justify-between items-center'>
             <h2 className='font-bold text-2xl'>My Dashboard</h2>
-          <Button className='cursor-pointer'>+ Consult With Doctor</Button>
+          <AddNewSessionDialogue/>
         </div>
       </div> 
       <HistoryList/>

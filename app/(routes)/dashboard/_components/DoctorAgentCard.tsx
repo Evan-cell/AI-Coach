@@ -2,6 +2,7 @@ import { Button } from '@/components/ui/button'
 import { IconArrowRight } from '@tabler/icons-react'
 import Image from 'next/image'
 import React from 'react'
+import AddNewSessionDialogue from './AddNewSessionDialogue'
 
 type doctorAgent={
     id:number,
@@ -20,7 +21,7 @@ const DoctorAgentCard = ({doctorAgent}:props) => {
       <Image src={doctorAgent.image} alt={doctorAgent.specialist} width={200} height={300} className='w-full h-62.5 object-cover rounded-xl'/>
       <h2 className='font-bold'>{doctorAgent.specialist}</h2>
       <p className='line-clamp-2 mt-1 text-sm text-gray-500'>{doctorAgent.description}</p>
-      <Button className='w-full mt-2 cursor-pointer'>start Consultation <IconArrowRight/></Button>
+      <AddNewSessionDialogue/>
     </div>
   )
 }
