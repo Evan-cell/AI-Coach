@@ -10,7 +10,7 @@ export default function DashboardLayout({
   return (
     <div className="min-h-screen">
       <AppHeader />
-      <main>{children}</main>
+      <main className="px-10 md:px-20 lg:px-30">{children}</main>
     </div>
   );
 }
