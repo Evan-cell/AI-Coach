@@ -1,7 +1,7 @@
 # 🏥 AI Doctor Consultant
 ### *Reimagining Healthcare Through Intelligent Digital Consultations*
 
-![AI Healthcare Building](https://images.unsplash.com/photo-1581091215367-59ab6c35b7c1?auto=format&fit=crop&w=1600&q=80)
+![AI Healthcare Building](https://plus.unsplash.com/premium_photo-1672097247893-4f8660247b1f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwwfHwwfHx8MA%3D%3D)
 
 ---
 
@@ -38,7 +38,7 @@ We envision a future where:
 
 ## 🏗️ System Architecture
 
-![AI Smart Hospital Architecture](https://images.unsplash.com/photo-1600959907703-125ba1374b66?auto=format&fit=crop&w=1600&q=80)
+![AI Smart Hospital Architecture](https://plus.unsplash.com/premium_photo-1682145288913-979906a9ebc8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c21hcnQlMjBob3NwaXRhbCUyMGFyY2hpdGVjaHR1cmV8ZW58MHx8MHx8fDA%3D)
 
 ### High-Level Flow
 
